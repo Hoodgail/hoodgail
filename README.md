@@ -1,13 +1,11 @@
 ### Hi there 👋
 ```js
-let { me } = require("you");
+let { me } = require("you"); // notice how me is inside of "you" ;)
 
-let life = async function(){
-  let { us, love } = await me();
-  if(us) us.freind("for life");
-  if(love) love.for("life");
+let us = async function(){
+  let { you } = await me();
 }
 
-life();
+us();
 ```
-https://hoodgail.com ❤️️
+i'm bored ❤️️
