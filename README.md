@@ -8,4 +8,4 @@ let us = async function(){
 
 us();
 ```
-i'm bored ❤️️
+i'm bored 
