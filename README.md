@@ -1,11 +1,8 @@
 ### Hi there 👋
 ```js
-let { me } = require("you"); // notice how me is inside of "you" ;)
+import women from "women";
 
-let us = async function(){
-  let { you } = await me();
-}
+const type = typeof women; // "object"
 
-us();
+console.log(type) // "object"
 ```
-i'm bored 
