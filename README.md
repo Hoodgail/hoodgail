@@ -1,8 +1,1 @@
-### Hi there 👋
-```js
-import women from "women";
-
-const type = typeof women; // "object"
-
-console.log(type) // "object"
-```
+[![Hoodgail's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoodgail)](https://github.com/hoodgail)
