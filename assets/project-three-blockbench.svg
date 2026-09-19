@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 310" role="img" aria-labelledby="title desc">
+<title id="title">three-blockbench</title><desc id="desc">Three.js loader for Blockbench bbmodel projects.</desc>
+<rect width="580" height="310" fill="#111"/>
+<rect x="12" y="12" width="556" height="286" fill="#f4efe5" stroke="#111"/>
+<text x="32" y="42" font-family="Courier New,monospace" font-size="12" fill="#111">LIBRARY / 03</text>
+<text x="548" y="42" text-anchor="end" font-family="Courier New,monospace" font-size="12" fill="#e94f2f">MIT ↗</text>
+<text x="32" y="104" font-family="Impact,Arial Narrow,sans-serif" font-size="42" fill="#111">THREE-BLOCKBENCH</text>
+<text x="34" y="137" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#111">.BBMODEL → NATIVE THREE.JS</text>
+<line x1="32" y1="164" x2="548" y2="164" stroke="#111"/>
+<text x="32" y="194" font-family="Courier New,monospace" font-size="13" fill="#111">GEOMETRY • TEXTURES • SKELETONS • ANIMATIONS</text>
+<text x="32" y="220" font-family="Courier New,monospace" font-size="13" fill="#111">TYPESCRIPT / THREE.JS / LOADER ARCHITECTURE</text>
+<g transform="translate(455 230)">
+ <path d="M36 0 72 21 36 42 0 21Z" fill="none" stroke="#111" stroke-width="2"/>
+ <path d="M0 21v42l36 20 36-20V21M36 42v41" fill="none" stroke="#111" stroke-width="2"/>
+ <circle cx="36" cy="42" r="5" fill="#e94f2f"><animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite"/></circle>
+</g>
+<text x="32" y="276" font-family="Comic Sans MS,cursive" font-size="16" fill="#e94f2f" transform="rotate(-2 32 276)">because model pipelines should feel boring—in a good way.</text>
+</svg>

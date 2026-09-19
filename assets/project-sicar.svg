@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 310" role="img" aria-labelledby="title desc">
+<title id="title">Sicar.io</title><desc id="desc">AAA browser FPS with tactical gunplay and competitive multiplayer.</desc>
+<rect width="580" height="310" fill="#111"/>
+<rect x="12" y="12" width="556" height="286" fill="#f4efe5" stroke="#111"/>
+<text x="32" y="42" font-family="Courier New,monospace" font-size="12" fill="#111">PROJECT / 01</text>
+<text x="548" y="42" text-anchor="end" font-family="Courier New,monospace" font-size="12" fill="#e94f2f">PLAYABLE NOW ↗</text>
+<text x="32" y="115" font-family="Impact,Arial Narrow,sans-serif" font-size="58" fill="#111">SICAR.IO</text>
+<text x="35" y="144" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#111">AAA BROWSER FPS / ZERO DOWNLOADS</text>
+<line x1="32" y1="165" x2="548" y2="165" stroke="#111"/>
+<text x="32" y="194" font-family="Courier New,monospace" font-size="13" fill="#111">TACTICAL GUNPLAY • SERVER-AUTHORITATIVE • 60+ FPS</text>
+<text x="32" y="220" font-family="Courier New,monospace" font-size="13" fill="#111">THREE.JS / TYPESCRIPT / UWEBSOCKETS / POSTGRESQL</text>
+<g transform="translate(443 236)">
+ <circle cx="43" cy="28" r="27" fill="none" stroke="#111" stroke-width="2" stroke-dasharray="5 5">
+  <animateTransform attributeName="transform" type="rotate" values="0 43 28;360 43 28" dur="8s" repeatCount="indefinite"/>
+ </circle>
+ <circle cx="43" cy="28" r="7" fill="#e94f2f"/>
+ <path d="M0 28h86M43-8v72" stroke="#111"/>
+</g>
+<text x="32" y="276" font-family="Comic Sans MS,cursive" font-size="16" fill="#e94f2f" transform="rotate(-3 32 276)">browser tabs were not supposed to do this.</text>
+</svg>
