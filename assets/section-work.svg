@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" role="img" aria-labelledby="title">
+<title id="title">Selected work</title>
+<rect width="1200" height="150" fill="#f4efe5"/>
+<path d="M24 22h20M24 22v20M1176 22h-20M1176 22v20" stroke="#111" fill="none"/>
+<text x="42" y="95" font-family="Impact,Arial Narrow,sans-serif" font-size="64" fill="#111">SELECTED SYSTEMS</text>
+<text x="625" y="95" font-family="Courier New,monospace" font-size="17" fill="#111">( the things that escaped localhost )</text>
+<line x1="42" y1="121" x2="1158" y2="121" stroke="#111"/>
+<g transform="translate(1005 52) rotate(-5)">
+  <text font-family="Comic Sans MS,cursive" font-size="18" fill="#e94f2f">click a card →</text>
+  <path d="M4 8 C 54 22, 80 16, 124 5" fill="none" stroke="#e94f2f" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 5">
+    <animate attributeName="stroke-dashoffset" from="18" to="0" dur="1.8s" repeatCount="indefinite"/>
+  </path>
+</g>
+</svg>

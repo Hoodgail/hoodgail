@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Built from scratch</title><desc id="desc">Real-time graphics, engines and systems engineering.</desc>
+<defs><clipPath id="scope"><rect x="690" y="85" width="430" height="165"/></clipPath></defs>
+<rect width="1200" height="330" fill="#111"/>
+<text x="44" y="54" font-family="Courier New,monospace" font-size="13" fill="#f4efe5">LUMINA ENGINE / SYSTEMS NOTE 07</text>
+<text x="44" y="128" font-family="Impact,Arial Narrow,sans-serif" font-size="60" fill="#f4efe5">BUILT FROM SCRATCH</text>
+<text x="46" y="166" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#f4efe5">RENDERING • NETWORKING • TOOLS • PHYSICS • PIPELINES</text>
+<text x="46" y="212" font-family="Courier New,monospace" font-size="13" fill="#f4efe5">I LIKE THE LAYER BELOW “APP DEVELOPMENT.”</text>
+<text x="46" y="238" font-family="Courier New,monospace" font-size="13" fill="#f4efe5">THE PART WHERE THE ENGINE, PROTOCOL, OR EDITOR DOESN’T EXIST YET.</text>
+<text x="46" y="287" font-family="Comic Sans MS,cursive" font-size="18" fill="#e94f2f" transform="rotate(-2 46 287)">yes, I will profile the frame time.</text>
+<rect x="670" y="66" width="474" height="205" fill="none" stroke="#f4efe5" stroke-width="1"/>
+<g clip-path="url(#scope)">
+ <g opacity=".22" stroke="#f4efe5" stroke-width="1">
+  <path d="M690 105h430M690 145h430M690 185h430M690 225h430M730 85v165M790 85v165M850 85v165M910 85v165M970 85v165M1030 85v165M1090 85v165"/>
+ </g>
+ <path d="M680 192 C710 192 720 122 748 122 S790 230 820 230 850 142 884 142 910 201 944 201 978 103 1011 103 1040 225 1072 225 1100 162 1145 162 1180 190 1210 190" fill="none" stroke="#e94f2f" stroke-width="4">
+   <animateTransform attributeName="transform" type="translate" from="0 0" to="-180 0" dur="4s" repeatCount="indefinite"/>
+ </path>
+</g>
+<text x="691" y="291" font-family="Courier New,monospace" font-size="12" fill="#f4efe5">FRAME / 16.6ms TARGET</text>
+<text x="1142" y="291" text-anchor="end" font-family="Courier New,monospace" font-size="12" fill="#e94f2f">LIVE SIGNAL</text>
+</svg>
